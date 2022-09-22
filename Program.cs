@@ -28,6 +28,7 @@ namespace MathApplication2
             Console.WriteLine("this application use function from maths.dll to do simple calculations");
 
             // print results on screen
+            // this will display on user screen
 
             Console.WriteLine(Subtract);
             Console.WriteLine(multiply);
