@@ -1,0 +1,11 @@
+C:\Users\Mildred\source\repos\MathApplication2\bin\Debug\MathApplication2.exe.config
+C:\Users\Mildred\source\repos\MathApplication2\bin\Debug\MathApplication2.exe
+C:\Users\Mildred\source\repos\MathApplication2\bin\Debug\MathApplication2.pdb
+C:\Users\Mildred\source\repos\MathApplication2\bin\Debug\MathLibrary2.dll
+C:\Users\Mildred\source\repos\MathApplication2\bin\Debug\MathLibrary2.pdb
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.csproj.AssemblyReference.cache
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.csproj.CopyComplete
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.exe
+C:\Users\Mildred\source\repos\MathApplication2\obj\Debug\MathApplication2.pdb
